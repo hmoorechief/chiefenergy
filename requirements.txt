@@ -3,4 +3,4 @@ pandas
 plotly
 folium
 streamlit-folium
-pyodbc
+pytds
