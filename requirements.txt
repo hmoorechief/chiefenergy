@@ -1,9 +1,4 @@
-streamlit==1.26.0
 fastapi==0.95.2
-uvicorn[standard]==0.23.1
+uvicorn[standard]==0.22.0
 pandas==2.0.3
-plotly==6.2.0
-folium==0.14.0
-streamlit-folium==0.25.0
-pyodbc==4.0.39
-openpyxl==3.1.2
+pyodbc==4.0.40
